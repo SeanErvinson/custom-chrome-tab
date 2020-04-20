@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "Custom Chrome Tab",
+    "version": "1.0",
+    "description": "Customize the new tab of chrome.",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
